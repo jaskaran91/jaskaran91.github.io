@@ -1,0 +1,105 @@
+.navbar{
+	padding-top:20px;
+	background: #ff007b;
+	padding-bottom:20px;
+	font-family: 'Poppins', sans-serif;
+	color:white;
+
+}
+.logo{
+	height:auto;
+	width:auto;
+	max-width: 100px;
+	max-height: 50px;
+	vertical-align: top;
+}
+
+.navbar-default .navbar-nav>li>a {
+	color:white;
+}
+
+body{
+
+	font-family: 'Poppins', sans-serif;
+}
+
+.myform{
+	padding:1.5rem;
+	background-color: #f4f7f8;
+	margin-top:0;
+	
+}
+.form-top{	
+ 	background-color: #005f85;
+ 	color: white;
+ 	margin-bottom: 0;
+ 	padding: 1rem;
+ 	text-align: center;
+}
+
+.btn-default{
+	margin-top: 2rem;
+	color:white;
+	background-color: #ff007b;
+	width:15rem;
+	border-radius: 10rem;
+}
+
+.login-div{
+	margin-top: 100px;
+	border: #dde6e9 1px solid;
+	border-radius: 10px;
+}
+
+.navbar-brand{
+	padding-top:0;
+	margin-right: 2rem;
+}
+
+.page-title{
+	font-size: 2rem;
+}
+
+.song-list{
+	margin-top:2rem;
+}
+
+.filter-criteria{
+	margin-top:2rem;
+	border-right:#dde6e9 1px solid;
+}
+
+.songName{
+	font-size:2rem;
+	font-weight:700;
+	padding-bottom: 0.8rem;
+}
+
+.artistName{
+	padding-left: 1rem;
+	font-size:1.5rem;
+	text-align: right;
+	padding-right:7rem;
+	color: grey;
+}
+
+.songIcon{
+	font-size:2.5rem;
+/*
+	padding-left:3rem;
+	padding-top: 1rem;  */
+	color:#005f85;
+	text-align: center;
+}
+
+.songInfo{
+	padding-bottom:1rem;
+}
+.song{
+	border-bottom:#dde6e9 1px solid;
+	padding-top:1rem;
+}
+
+.levelCheck{
+	margin-left: 1rem;
+}
